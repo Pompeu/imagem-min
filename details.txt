@@ -1,0 +1,5 @@
+install node from sources https://www.youtube.com/watch?v=LTyqMuc9Vjs
+
+install gulp use npm install -g gulp
+
+gulp e npm.
